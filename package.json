@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-autohome-fix-link",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "修复相对路径无法跳转的问题",
   "main": "index.js",
   "scripts": {
